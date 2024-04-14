@@ -52,7 +52,7 @@ Dataset Source Link :
 
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook] https://github.com/DataScrutinizingwithMayur/Gem_Price_Prediction/blob/main/notebook/1_EDA_Gemstone_price.ipynb)
+Link : [EDA Notebook] (https://github.com/DataScrutinizingwithMayur/Gem_Price_Prediction/blob/main/notebook/1_EDA_Gemstone_price.ipynb)
 
 # Model Training Approach Notebook
 
