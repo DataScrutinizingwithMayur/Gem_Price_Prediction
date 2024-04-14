@@ -60,4 +60,4 @@ Link : [Model Training Notebook](https://github.com/DataScrutinizingwithMayur/Ge
 
 # Model Interpretation with LIME 
 
-Link : [LIME Interpretation](./notebook/3_Explainability_with_LIME.ipynb)
+Link : [LIME Interpretation](https://github.com/DataScrutinizingwithMayur/Gem_Price_Prediction/blob/main/notebook/3_Explainability_with_LIME.ipynb)
