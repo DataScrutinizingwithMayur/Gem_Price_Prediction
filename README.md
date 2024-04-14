@@ -56,7 +56,7 @@ Link : [EDA Notebook](https://github.com/DataScrutinizingwithMayur/Gem_Price_Pre
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](./notebook/2_Model_Training_Gemstone.ipynb)
+Link : [Model Training Notebook](https://github.com/DataScrutinizingwithMayur/Gem_Price_Prediction/blob/main/notebook/2_Model_Training_Gemstone.ipynb)
 
 # Model Interpretation with LIME 
 
